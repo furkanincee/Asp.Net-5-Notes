@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZiS2ulRrsE94SLfmqPy8wqHVea6fzcIzk9C7JVweAIaNbhLskpgR7RAWwWDhF/au1LIgwZA8k6lmEQigdDdUmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\Custom Route Handler\\Custom Route Handler\\Custom Route Handler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\magick.net-q16-anycpu\\11.1.2\\magick.net-q16-anycpu.11.1.2.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\magick.net.core\\11.1.2\\magick.net.core.11.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

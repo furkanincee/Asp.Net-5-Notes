@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\Desktop\\Asp-Giris-Core-5-Gencayla\\Route Yapılanması\\Route Yapılanması\\Route Yapılanması.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\Route Yapılanması\\Route Yapılanması\\Route Yapılanması.csproj",
       "projectName": "Route Yapılanması",
-      "projectPath": "C:\\Users\\furka\\Desktop\\Asp-Giris-Core-5-Gencayla\\Route Yapılanması\\Route Yapılanması\\Route Yapılanması.csproj",
+      "projectPath": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\Route Yapılanması\\Route Yapılanması\\Route Yapılanması.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\Desktop\\Asp-Giris-Core-5-Gencayla\\Route Yapılanması\\Route Yapılanması\\obj\\",
+      "outputPath": "C:\\Users\\furka\\Desktop\\Asp.Net 5 Notes\\Route Yapılanması\\Route Yapılanması\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furka\\AppData\\Roaming\\NuGet\\NuGet.Config",

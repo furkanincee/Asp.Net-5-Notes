@@ -92,7 +92,10 @@ namespace Route_Yapılanması
                 // Kendimiz de bir constraint classı oluşturup ayarlamalar yaparak burada rota parametrelerine verebiliyoruz (z parametresine verdik) .
                 // -- Constraint klasörünün içinde class oluşturduk ona git.
 
-                Dk 47de kaldık attribute ile routing kısmında
+                /**** Attribute kullanarak routing ****/
+                // Önce gittik controllerımıza bir route attribute vererek rotasını belirttik. Sonra da buraya gelip alttaki MapControllers'i ekledik
+                endpoints.MapControllers(); // Controllerdan gelen isteği controllerdaki rotalarla eşleştir
+
             });
         }
     }

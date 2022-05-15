@@ -1,0 +1,39 @@
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\appsettings.json
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.exe
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.deps.json
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.runtimeconfig.json
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.runtimeconfig.dev.json
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.dll
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.pdb
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.Views.dll
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\bin\Debug\net5.0\Custom Route Handler.Views.pdb
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.AssemblyInfo.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.RazorAssemblyInfo.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.RazorAssemblyInfo.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\scopedcss\bundle\Custom Route Handler.styles.css
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\staticwebassets\Custom Route Handler.StaticWebAssets.Manifest.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.TagHelpers.input.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.TagHelpers.output.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.RazorCoreGenerate.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.RazorTargetAssemblyInfo.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.RazorTargetAssemblyInfo.cs
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.Views.pdb
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.dll
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\refint\Custom Route Handler.dll
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.pdb
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.genruntimeconfig.cache
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\ref\Custom Route Handler.dll
+C:\Users\furka\Desktop\Asp.Net 5 Notes\Custom Route Handler\Custom Route Handler\obj\Debug\net5.0\Custom Route Handler.csproj.CopyComplete
