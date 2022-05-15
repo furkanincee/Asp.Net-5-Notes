@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDjqwWUv6DYOncJVTJ5bsiPoTuD1pKJIj5+QWz7XUuvxEUHExOfxbv6x3G9fQGbKcpkwGoMGx0DNV37/t6/QlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\Desktop\\Asp-Giris-Core-5-Gencayla\\Validation\\Validation\\Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.1\\fluentvalidation.aspnetcore.11.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.1\\fluentvalidation.dependencyinjectionextensions.11.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
